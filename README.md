@@ -1,2 +1,2 @@
 # class-test
-test-pc
+test-pc2
